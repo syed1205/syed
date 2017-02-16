@@ -17,5 +17,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="jar/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/client-combined-3.0.1-nodeps.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
